@@ -19,7 +19,7 @@
   "dependencies": {
     "@nuxtjs/font-awesome": "1.0.3",
     "@nuxtjs/google-analytics": "2.0.2",
-    "axios": "0.18.0",
+    "axios": "0.26.1",
     "bignumber.js": "7.2.1",
     "bootstrap": "4.1.1",
     "metronome-contracts": "1.4.0",
